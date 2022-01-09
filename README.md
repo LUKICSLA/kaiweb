@@ -11,12 +11,21 @@ Latest source code updates/changes should stay in `development` branch until the
 **If you want to propose any changes to source code, please use `development` branch and create a pull request for `stable` branch!**
 
 # Installation
+
+### 1st method: Download source files and upload
 1. Download files from this repository as a *.zip file.
 2. Extract the *.zip archive to your HDD.
 3. Upload source files from extracted *.zip archive to your webserver as-is.
 4. Website with our source files should be now live.
 
-In case of any troubles during installation proccess feel free to contact us.
+### 2nd method: Clone repository with Git command
+If you don't want/can't use SSH, use this command (checkout/SVN): ```https://github.com/LUKICSLA/kaiweb.git```
+
+If you want to use SSH use this command: ```git@github.com:LUKICSLA/kaiweb.git```
+
+Or use this command to clone with Github CLI: ```gh repo clone LUKICSLA/kaiweb```
+
+In case of any troubles during installation proccess feel free to contact us or [use this how-to](https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories). 
 
 # Copyright
 Copyright © 2021-2022 Lukáš Maár, Timea Danišová, Andrea Hornáčková
