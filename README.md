@@ -12,3 +12,4 @@ Latest source code updates/changes should stay in `development` branch until the
 
 # Copyright
 Copyright © 2021-2022 Lukáš Maár, Timea Danišová, Andrea Hornáčková
+
