@@ -20,5 +20,3 @@ In case of any troubles during installation proccess feel free to contact us.
 
 # Copyright
 Copyright © 2021-2022 Lukáš Maár, Timea Danišová, Andrea Hornáčková
-
-
