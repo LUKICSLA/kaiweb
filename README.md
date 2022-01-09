@@ -19,7 +19,7 @@ Latest source code updates/changes should stay in `development` branch until the
 4. Website with our source files should be now live.
 
 ### 2nd method: Clone repository with Git command
-If you don't want/can't use SSH, use this command (checkout/SVN): ```https://github.com/LUKICSLA/kaiweb.git```
+If you don't want/can't use SSH, use this URL for checkout/SVN: ```https://github.com/LUKICSLA/kaiweb.git```
 
 If you want to use SSH use this command: ```git@github.com:LUKICSLA/kaiweb.git```
 
