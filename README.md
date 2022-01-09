@@ -1,13 +1,14 @@
 # Repository overview
-Website sources for Department of applied informatics Faculty of natural sciences UCM.
+Repository contains source files for website of Department of applied informatics Faculty of natural sciences, University of Ss. Cyril and Methodius Trnava.
+[This website](http://kai.rf.gd/) is created as a project of 3 students for subject "Team project", but we plan to update the web and it's source files also in the future. 
 
 # Repository license
-This repository is licensed under [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/legalcode).
+Source files are licensed under [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/legalcode).
 
-# Stable/Development branches - usage & proposals
+# Stable/Development branches - usage & proposal
 Latest source code updates/changes should stay in `development` branch until they're tested and source code is validated. 
 
-**If you want to propose any changes to source code, please use `development` branch and don't change files in `stable` branch!**
+**If you want to propose any changes to source code, please use `development` branch and create a pull request for `stable` branch!**
 
 # Copyright
 Copyright © 2021-2022 Lukáš Maár, Timea Danišová, Andrea Hornáčková
