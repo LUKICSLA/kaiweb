@@ -13,7 +13,7 @@ Latest source code updates/changes should stay in `development` branch until the
 # Installation
 
 ### 1st method: Download source files and upload
-1. Download files from this repository as a *.zip file.
+1. Download the latest files from this repository from [releases tab](https://github.com/LUKICSLA/kaiweb/releases). 
 2. Extract the *.zip archive to your HDD.
 3. Upload source files from extracted *.zip archive to your webserver as-is.
 4. Website with our source files should be now live.
