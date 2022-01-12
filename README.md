@@ -10,8 +10,12 @@ Latest source code updates/changes should stay in `development` branch until the
 
 **If you want to propose any changes to source code, please use `development` branch and create a pull request for `stable` branch!**
 
-# Installation
+# Live preview
+Site was deployed on [GitHub Pages](https://lukicsla.github.io/kaiweb/) (and page is always updated automatically when commit to  `stable` branch is pushed) and [on external hosting](http://kai.rf.gd/).
 
+**We _don't_ guarantee that the live preview on the external hosting will be the same as here on GitHub because we no longer update external hosting sources so frequently.**
+
+# Installation
 ### 1st method: Download source files and upload
 1. Download the latest files from this repository from [releases tab](https://github.com/LUKICSLA/kaiweb/releases). 
 2. Extract the *.zip archive to your HDD.
