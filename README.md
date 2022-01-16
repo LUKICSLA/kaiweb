@@ -1,4 +1,11 @@
 # Repository overview
+[![Branch](https://img.shields.io/badge/Branch-stable-cyan.svg)](https://github.com/LUKICSLA/kaiweb)
+[![Contributors](https://img.shields.io/badge/Contributors-3-orange.svg)](https://shields.io/)
+[![Version](https://img.shields.io/badge/Version-1.1.1-red.svg)](https://github.com/LUKICSLA/kaiweb)
+[![Build](https://img.shields.io/badge/Build-12012022-brown.svg)](https://github.com/LUKICSLA/kaiweb)
+[![License](https://img.shields.io/badge/License-Attribution_4.0_International_CC_BY_4.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/legalcode)
+[![Live demo](https://img.shields.io/badge/Live_demo_web-Available-<COLOR>.svg)](http://kai.rf.gd/)
+
 Repository contains source files for website of Department of applied informatics Faculty of natural sciences, University of Ss. Cyril and Methodius Trnava.
 [This website](http://kai.rf.gd/) is created as a project of 3 students for subject "Team project", but we plan to update the web and it's source files also in the future. 
 
