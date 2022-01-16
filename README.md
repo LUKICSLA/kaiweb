@@ -1,10 +1,14 @@
 # Repository overview
-[![Branch](https://img.shields.io/badge/Branch-stable-cyan.svg)](https://github.com/LUKICSLA/kaiweb)
-[![Contributors](https://img.shields.io/badge/Contributors-3-orange.svg)](https://shields.io/)
-[![Version](https://img.shields.io/badge/Version-1.1.1-red.svg)](https://github.com/LUKICSLA/kaiweb)
-[![Build](https://img.shields.io/badge/Build-12012022-brown.svg)](https://github.com/LUKICSLA/kaiweb)
-[![License](https://img.shields.io/badge/License-Attribution_4.0_International_CC_BY_4.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/legalcode)
-[![Live demo](https://img.shields.io/badge/Live_demo_web-Available-<COLOR>.svg)](http://kai.rf.gd/)
+[![Branch](https://img.shields.io/badge/branch-stable-cyan.svg)](https://github.com/LUKICSLA/kaiweb)
+![W3C Validation](https://img.shields.io/w3c-validation/html?targetUrl=https%3A%2F%2Flukicsla.github.io%2Fkaiweb%2F)
+[![Live demo](https://img.shields.io/badge/live_demo_web-available-<COLOR>.svg)](http://kai.rf.gd/)
+![GitHub deployments](https://img.shields.io/github/deployments/LUKICSLA/kaiweb/github-pages?label=deployment)
+[![Contributors](https://img.shields.io/badge/contributors-3-orange.svg)](https://shields.io/)
+![Release](https://img.shields.io/github/v/release/LUKICSLA/kaiweb?label=version)
+![GitHub Release Date](https://img.shields.io/github/release-date/LUKICSLA/kaiweb?color=red)
+[![License](https://img.shields.io/badge/license-Attribution_4.0_International_CC_BY_4.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/legalcode)
+![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/LUKICSLA/kaiweb?color=yellow)
+![GitHub repo size](https://img.shields.io/github/repo-size/LUKICSLA/kaiweb)
 
 Repository contains source files for website of Department of applied informatics Faculty of natural sciences, University of Ss. Cyril and Methodius Trnava.
 [This website](http://kai.rf.gd/) is created as a project of 3 students for subject "Team project", but we plan to update the web and it's source files also in the future. 
