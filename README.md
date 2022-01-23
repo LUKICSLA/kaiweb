@@ -10,23 +10,22 @@
 ![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/LUKICSLA/kaiweb?color=yellow)
 ![GitHub repo size](https://img.shields.io/github/repo-size/LUKICSLA/kaiweb)
 
-The repository contains source files for the website of the Department of applied informatics Faculty of natural sciences, University of Ss. Cyril and Methodius Trnava.[This website](http://kai.rf.gd/) is created as a project of 3 students for the subject "Team project" but we plan to update the web and its source files also in the future.
+
+The repository contains source files for the website of the Department of applied informatics Faculty of natural sciences, University of Ss. Cyril and Methodius Trnava. [This website](http://kai.rf.gd/) is a project of 3 students for the subject Team project. We plan to update the web and its source files in the future.
 
 # Repository license
-Source files are licensed under [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/legalcode).
+Source files are under the [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/legalcode) license.
 
 # Stable/Development branches - usage & proposal
-The latest source code updates/changes should stay in the `development` branch until they're tested and the source code is validated.
-If you want to propose any changes to the source code, please use the `development` branch and create a pull request for a `stable` branch!
+The latest source code updates/changes should stay in the `development` branch until we review it and the source code is valid. If you want to propose any changes to the source code, please use the `development` branch and create a pull request to a `stable` branch!
 
 # Live preview
-The site was deployed on [GitHub Pages](https://lukicsla.github.io/kaiweb/) (and the page is always updated automatically when commit to  `stable` branch is pushed) and [on external hosting](http://kai.rf.gd/).
-
-**We _don't_ guarantee that the live preview on the external hosting will be the same as here on GitHub because we no longer update external hosting sources so frequently.**
+The site is live on [GitHub Pages](https://lukicsla.github.io/kaiweb/) (the page is updated automatically) and [on external hosting](http://kai.rf.gd/).
+**We _don't_ guarantee that the live preview on the external hosting will be the same as on GitHub because we no longer update external hosting sources frequently.**
 
 # Installation
 ### 1st method: Download source files and upload
-1. Download the latest files from this repository from [releases tab](https://github.com/LUKICSLA/kaiweb/releases). 
+1. Download the latest files from this repository from the [releases tab](https://github.com/LUKICSLA/kaiweb/releases). 
 2. Extract the *.zip archive to your HDD.
 3. Upload source files from extracted *.zip archive to your webserver as-is.
 4. The website with our source files should be now live.
@@ -34,11 +33,11 @@ The site was deployed on [GitHub Pages](https://lukicsla.github.io/kaiweb/) (and
 ### 2nd method: Clone repository with Git command
 If you don't want/can't use SSH, use this URL for checkout/SVN: ```https://github.com/LUKICSLA/kaiweb.git```
 
-If you want to use SSH use this command: ```git@github.com:LUKICSLA/kaiweb.git```
+If you want to use SSH (via this command): ```git@github.com:LUKICSLA/kaiweb.git```
 
 Or use this command to clone with Github CLI: ```gh repo clone LUKICSLA/kaiweb```
 
-In case of any troubles during installation proccess feel free to contact us or [use this how-to](https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories). 
+In the case of any troubles during the installation process, feel free to contact us or [use this how-to](https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories). 
 
 # Copyright
 Copyright © 2021-2022 Lukáš Maár, Timea Danišová, Andrea Hornáčková
