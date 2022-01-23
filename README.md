@@ -1,5 +1,5 @@
 # Repository overview
-[![Branch](https://img.shields.io/badge/branch-development-cyan.svg)](https://github.com/LUKICSLA/kaiweb)
+[![Branch](https://img.shields.io/badge/branch-stable-cyan.svg)](https://github.com/LUKICSLA/kaiweb)
 ![W3C Validation](https://img.shields.io/w3c-validation/html?targetUrl=https%3A%2F%2Flukicsla.github.io%2Fkaiweb%2F)
 [![Live demo](https://img.shields.io/badge/live_demo_web-available-<COLOR>.svg)](http://kai.rf.gd/)
 ![GitHub deployments](https://img.shields.io/github/deployments/LUKICSLA/kaiweb/github-pages?label=deployment)
@@ -10,19 +10,17 @@
 ![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/LUKICSLA/kaiweb?color=yellow)
 ![GitHub repo size](https://img.shields.io/github/repo-size/LUKICSLA/kaiweb)
 
-Repository contains source files for website of Department of applied informatics Faculty of natural sciences, University of Ss. Cyril and Methodius Trnava.
-[This website](http://kai.rf.gd/) is created as a project of 3 students for subject "Team project", but we plan to update the web and it's source files also in the future. 
+The repository contains source files for the website of the Department of applied informatics Faculty of natural sciences, University of Ss. Cyril and Methodius Trnava.[This website](http://kai.rf.gd/) is created as a project of 3 students for the subject "Team project" but we plan to update the web and its source files also in the future.
 
 # Repository license
 Source files are licensed under [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/legalcode).
 
 # Stable/Development branches - usage & proposal
-Latest source code updates/changes should stay in `development` branch until they're tested and source code is validated. 
-
-**If you want to propose any changes to source code, please use `development` branch and create a pull request for `stable` branch!**
+The latest source code updates/changes should stay in the `development` branch until they're tested and the source code is validated.
+If you want to propose any changes to the source code, please use the `development` branch and create a pull request for a `stable` branch!
 
 # Live preview
-Site was deployed on [GitHub Pages](https://lukicsla.github.io/kaiweb/) (and page is always updated automatically when commit to  `stable` branch is pushed) and [on external hosting](http://kai.rf.gd/).
+The site was deployed on [GitHub Pages](https://lukicsla.github.io/kaiweb/) (and the page is always updated automatically when commit to  `stable` branch is pushed) and [on external hosting](http://kai.rf.gd/).
 
 **We _don't_ guarantee that the live preview on the external hosting will be the same as here on GitHub because we no longer update external hosting sources so frequently.**
 
@@ -31,7 +29,7 @@ Site was deployed on [GitHub Pages](https://lukicsla.github.io/kaiweb/) (and pag
 1. Download the latest files from this repository from [releases tab](https://github.com/LUKICSLA/kaiweb/releases). 
 2. Extract the *.zip archive to your HDD.
 3. Upload source files from extracted *.zip archive to your webserver as-is.
-4. Website with our source files should be now live.
+4. The website with our source files should be now live.
 
 ### 2nd method: Clone repository with Git command
 If you don't want/can't use SSH, use this URL for checkout/SVN: ```https://github.com/LUKICSLA/kaiweb.git```
