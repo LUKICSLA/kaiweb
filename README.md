@@ -10,7 +10,7 @@
 ![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/LUKICSLA/kaiweb?color=yellow)
 ![GitHub repo size](https://img.shields.io/github/repo-size/LUKICSLA/kaiweb)
 
-The repository contains source files for the website of the Department of applied informatics Faculty of natural sciences, University of Ss. Cyril and Methodius Trnava. [This website](http://kai.rf.gd/) is a project of 3 students for the subject Team project. We plan to update the web and its source files in the future.
+The repository contains source files for the website of the Department of applied informatics Faculty of Natural Sciences of University of Ss. Cyril and Methodius Trnava. [This website](http://kai.rf.gd/) is a project of 3 students for the subject Team project. We plan to update the web and its source files in the future.
 
 # Repository license
 Source files are under the [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/legalcode) license.
