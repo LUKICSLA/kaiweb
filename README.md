@@ -10,13 +10,13 @@
 ![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/LUKICSLA/kaiweb?color=yellow)
 ![GitHub repo size](https://img.shields.io/github/repo-size/LUKICSLA/kaiweb)
 
-The repository contains source files for the website of the Department of applied informatics Faculty of Natural Sciences of University of Ss. Cyril and Methodius in Trnava. [This website](http://kai.rf.gd/) is a project of 3 students for the subject Team project. We plan to update the web and its source files in the future.
+The repository contains source files for the website of the Department of applied informatics Faculty of Natural Sciences of the University of Ss. Cyril and Methodius in Trnava. [This website](http://kai.rf.gd/) is a project of 3 students for the subject Team project. We plan to update the web and its source files in the future.
 
 # Repository license
 Source files are under the [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/legalcode) license.
 
 # Stable/Development branches - usage & proposal
-The latest source code updates/changes should stay in the `development` branch until we review it and the source code is valid. If you want to propose any changes to the source code, please use the `development` branch and create a pull request to a `stable` branch!
+The latest source code updates/changes should stay outside of the `stable` branch until we review it and the source code is valid. If you want to propose any changes to the source code, please create a new branch and make a pull request to a `stable` branch!
 
 # Live preview
 The site is live on [GitHub Pages](https://lukicsla.github.io/kaiweb/) (the page is updated automatically) and [on external hosting](http://kai.rf.gd/).
