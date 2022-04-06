@@ -15,7 +15,7 @@ The repository contains source files for the website of the Department of applie
 # Repository license
 Source files are under the [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/legalcode) license.
 
-# Stable/Development branches - usage & proposal
+# Project branches
 The latest source code updates/changes should stay outside of the `stable` branch until we review it and the source code is valid. If you want to propose any changes to the source code, please create a new branch and make a pull request to a `stable` branch!
 
 # Live preview
