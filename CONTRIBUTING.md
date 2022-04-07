@@ -12,3 +12,6 @@ This document is a subject of change.
 
 ## Have an idea about a new feature or change an existing one?
 - Create a new branch and open a new GitHub pull request - we'll review it as soon as possible.
+
+# Why I have to create a new branch?
+The latest source code updates/changes should stay outside the `stable` branch until we review it and the source code is valid. If you want to propose any changes to the source code, please create a new branch and make a pull request to a `stable` branch!
