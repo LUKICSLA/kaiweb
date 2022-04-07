@@ -15,9 +15,6 @@ The repository contains source files for the website of the Department of applie
 # Repository license
 Source files are under the [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/legalcode) license.
 
-# Contributing to a project
-[Read here how you can contribute to our project](https://github.com/LUKICSLA/kaiweb/blob/stable/CONTRIBUTING.md).
-
 # Live preview
 The site is live on [GitHub Pages](https://lukicsla.github.io/kaiweb/) (the page is deployed automatically) and [on external hosting](http://kai.rf.gd/).
 **We _don't_ guarantee that the live preview on the external hosting will be the same as on GitHub because we no longer update external hosting sources frequently.**
