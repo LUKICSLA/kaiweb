@@ -507,9 +507,6 @@ a.navbar-brand img {
 
 .blog_img_popular {
 	margin-bottom: 30px;
-	animation-name: flip;
-	animation-duration: 4s;
-	animation-delay: 2s;
 }
 
 /* search bar */
