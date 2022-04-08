@@ -379,6 +379,9 @@ button:focus {
 
 .padding_bottom-0 {
 	padding-bottom: 0 !important;
+	animation-name: fadeInUp;
+	animation-duration: 4s;
+	animation-delay: 2s;
 }
 
 .top-header .navbar {
@@ -504,6 +507,9 @@ a.navbar-brand img {
 
 .blog_img_popular {
 	margin-bottom: 30px;
+	animation-name: flip;
+	animation-duration: 4s;
+	animation-delay: 2s;
 }
 
 /* search bar */
@@ -2021,6 +2027,9 @@ p.section_count {
 .heading_main {
 	float: left;
 	display: flex;
+	animation-name: fadeInRight;
+	animation-duration: 4s;
+	animation-delay: 2s;
 }
 
 .theme_bg {
@@ -2043,6 +2052,9 @@ h3.small_heading {
 
 .margin-top_50 {
 	margin-top: 50px;
+	animation-name: fadeInRight;
+	animation-duration: 4s;
+	animation-delay: 2s;
 }
 
 .margin-bottom_30 {
