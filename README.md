@@ -22,8 +22,8 @@ The site is live on [GitHub Pages](https://lukicsla.github.io/kaiweb/) (the page
 # Installation
 ### 1st method: Download source files and upload
 1. Download the latest files from this repository from the [releases tab](https://github.com/LUKICSLA/kaiweb/releases). 
-2. Extract the *.zip archive to your HDD.
-3. Upload source files from extracted *.zip archive to your webserver as-is.
+2. Extract the archive to your HDD.
+3. Upload source files from extracted archive to your webserver as-is or extract them directly on the webserver.
 4. The website with our source files should be now live.
 
 ### 2nd method: Clone repository with Git command
