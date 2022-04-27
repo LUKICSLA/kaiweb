@@ -35,5 +35,8 @@ Or use this command to clone with Github CLI: ```gh repo clone LUKICSLA/kaiweb``
 
 In the case of any troubles during the installation process, feel free to contact us or [use this how-to](https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories). 
 
+# Feedback, development and Q&A
+https://discord.gg/7Ggheuxddv
+
 # Copyright
 Copyright © 2021-2022 Lukáš Maár, Timea Danišová, Andrea Hornáčková
