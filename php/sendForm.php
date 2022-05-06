@@ -1,7 +1,6 @@
 <?php
-
 if($_POST["submit"]) {
-    $recipient="luki.maar@gmail.com";
+    $recipient="luki.m2k@gmail.com";
     $subject="KAI WEB: Nova prihlaska na CISCO";
     $sender=$_POST["sender"];
     $senderEmail=$_POST["senderEmail"];
