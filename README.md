@@ -51,7 +51,7 @@ Click on the version name for the full changelog.
 - footer update - copyright data (https://github.com/LUKICSLA/kaiweb/pull/20)
 - merge to stable (https://github.com/LUKICSLA/kaiweb/pull/23)
 - updated README.md (https://github.com/LUKICSLA/kaiweb/pull/26)
-- mobile devices support by (https://github.com/LUKICSLA/kaiweb/pull/27)
+- mobile devices support (https://github.com/LUKICSLA/kaiweb/pull/27)
 
 # Copyright
 Copyright © 2021-2022 Lukáš Maár, Timea Danišová, Andrea Hornáčková
