@@ -38,5 +38,20 @@ In the case of any troubles during the installation process, feel free to contac
 # Feedback, development and Q&A
 https://discord.gg/7Ggheuxddv
 
+# Changelog 
+Click on the version name for the full changelog.
+
+## v1.0.0 (17 Jan 2022)
+- initial release
+
+## [v1.0.2](https://github.com/LUKICSLA/kaiweb/compare/v1.0.0...v1.0.2) (06 Apr 2022)
+- fix https://github.com/LUKICSLA/kaiweb/issues/7 - updated headings for Erasmus info and Erasmus+ subpages (https://github.com/LUKICSLA/kaiweb/pull/17)
+
+## [v1.0.7](https://github.com/LUKICSLA/kaiweb/compare/v1.0.2...v1.0.7) (05 May 2022)
+- footer update - copyright data (https://github.com/LUKICSLA/kaiweb/pull/20)
+- merge to stable (https://github.com/LUKICSLA/kaiweb/pull/23)
+- updated README.md (https://github.com/LUKICSLA/kaiweb/pull/26)
+- mobile devices support by (https://github.com/LUKICSLA/kaiweb/pull/27)
+
 # Copyright
 Copyright © 2021-2022 Lukáš Maár, Timea Danišová, Andrea Hornáčková
