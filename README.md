@@ -53,5 +53,12 @@ Click on the version name for the full changelog.
 - updated README.md (https://github.com/LUKICSLA/kaiweb/pull/26)
 - mobile devices support (https://github.com/LUKICSLA/kaiweb/pull/27)
 
+## [v1.0.7-13522](https://github.com/LUKICSLA/kaiweb/compare/v1.0.7...v1.0.7-13522) (13 May 2022)
+- implemented google translator script (ENG/SVK translation)
+- implemented search function
+- updated index.html
+- restored viewport
+- merge from LUKICSLA/localization to LUKICSLA/stable
+
 # Copyright
 Copyright © 2021-2022 Lukáš Maár, Timea Danišová, Andrea Hornáčková
